@@ -1,0 +1,4 @@
+Case,Channel,Bug type,Bugs
+Mojo,Browser IPC,UAF,1
+ALPC,OS IPC,UAF,1
+DevTools,API/WebUI,Auth./validation,2
